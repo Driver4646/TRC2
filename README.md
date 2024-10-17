@@ -7,8 +7,7 @@ TRC2 is an autonomous rc car wich utilizes a lidar and a rpi4 and races around t
 1. RaspberryPi 4(I use), Jetson nano, RaspberryPi 5.
 2. Rplidar C1.
 3. RCCar wltoys 124007, or other cars tho with a 3 pin connector on servo and esc.
-
-# You will need other stuff like a keyboard and mouse for using the Raspberry pi, etc!
+You will need other parts not all these you can find other parts and these on amazon.com, amazon.se and etc.
 
 # Software
 
