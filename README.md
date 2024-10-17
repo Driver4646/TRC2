@@ -10,7 +10,11 @@ TRC2 is an autonomous rc car wich utilizes a lidar and a rpi4 and races around t
 
 You will need other parts not all these you can find other parts and these on amazon.com, amazon.se and etc.
 
-# Software
+# Software!
+
 
 I use a version of Ros2-Humble with Ubuntu 22.04. https://docs.ros.org/en/humble/index.html
 And i use custom writen software for getting a racingline from example a racing track for RCcars. #I will post the code later!
+
+
+(https://github.com/user-attachments/assets/1601c5be-399b-4606-9306-368a3e86f1f2)
