@@ -2,6 +2,9 @@ This is taken from the ROS2 website!
 https://docs.ros.org/en/humble/Installation/Alternatives/Ubuntu-Development-Setup.html
 
 
+
+
+
 locale  # check for UTF-8
 
 sudo apt update && sudo apt install locales
