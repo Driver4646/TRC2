@@ -14,7 +14,8 @@ You will need other parts not all these you can find other parts and these on am
 
 
 I use a version of Ros2-Humble with Ubuntu 22.04. https://docs.ros.org/en/humble/index.html
-And i use custom writen software for getting a racingline from example a racing track for RCcars. #I will post the code later!
+
+And i use custom writen software for getting a racingline from example a racing track for RCcars. # I will post the code later!
 
 
 
