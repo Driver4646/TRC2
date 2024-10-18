@@ -23,3 +23,10 @@ And i use custom writen software for getting a racingline from example a racing 
 # The car i use! WLTOYS 124007 MODEL
 
 ![20241017_211552](https://github.com/user-attachments/assets/9fe56de1-adcc-4f11-bf0e-68e27b414518)
+
+
+
+# Printed parts
+
+Great wings to print with support for the wltoys124007! https://www.printables.com/model/725496-wltoys-124019-3-element-rear-wing/files
+
